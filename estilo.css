@@ -1,0 +1,32 @@
+body{
+background-color: rgb(251, 253, 138);
+}
+h1{
+text-align: center;
+font-size: 40px;
+color: rgb(11, 5, 49);
+}
+img{
+background-size: 50px;
+}
+.izquierdo{
+float: left;
+} 
+.derecho{
+float:right;
+} 
+.centro{
+padding:20px;
+text-align: center;
+background-color: rgb(253, 238, 198);
+}
+.centro2{
+padding:20px;
+text-align: center;
+background-color: rgb(255, 185, 185);
+}
+.centro3{
+padding:20px;
+text-align: center;
+background-color: rgb(185, 238, 252);  
+}
